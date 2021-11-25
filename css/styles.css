@@ -1,0 +1,79 @@
+body {
+  background-image: url("../assets/home/background-home-desktop.jpg");
+  font-family: 'Merriweather', serif;
+  margin: 0;
+}
+
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top_container {
+  background-color: #1F1D36;
+  width: 600px;
+  text-align: center;
+  margin: 50px 0 auto auto;
+  padding: 50px 50px 50px 50px;
+  opacity: 0.6;
+}
+
+.header {
+  color: #11999E;
+  margin: auto 10px auto 20px;
+  font-family: 'Dealerplate', sans-serif;
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-weight: bolder;
+
+}
+
+.middle_container {
+  position: absolute;
+  top: 200px;
+  margin: auto auto auto 100px;
+  width: 50%;
+}
+
+.intro {
+  width: 60%;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 2px;
+  color: #11999E;
+}
+
+.explore {
+  font-family: 'Bellefair', serif;
+  margin: 30px 200px auto auto;
+  width: 280px;
+  height: 280px;
+  line-height: 280px;
+  border-radius: 50%;
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  background: white;
+  position: relative;
+  top:100px;
+  font-weight: bold;
+
+
+}
+
+.front {
+  width: 60%;
+  font-family: 'Dealerplate', sans-serif;
+  color: #11999E;
+  word-spacing: 8px;
+  letter-spacing: 2px;
+}
+
+.space {
+  font-family: 'Bellefair', serif;
+  font-size: 100PX;
+  width: 60%;
+  margin: 30px auto 50px 10px;
+  color: white;
+  letter-spacing: 3PX;
+  font-weight: bold;
+}

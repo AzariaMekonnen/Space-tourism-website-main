@@ -1,0 +1,116 @@
+body {
+  background-image: url("../assets/destination/background-destination-desktop.jpg");
+  font-family: 'Merriweather', serif;
+  margin: 0;
+}
+
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top_container {
+  background-color: #0A1931;
+  width: 600px;
+  text-align: center;
+  margin: 50px 0 auto auto;
+  padding: 50px 50px 50px 50px;
+  opacity: 0.5;
+}
+
+.header {
+  color:#11999E;
+  margin: auto 10px auto 20px;
+  font-family: 'Dealerplate', sans-serif;
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-weight: bold;
+
+}
+
+.header_destination {
+  width: 400px;
+  text-align: center;
+  margin: 50px 0 auto auto;
+  padding: 20px 150px 20px 0;
+  opacity: 1;
+  position: absolute;
+  top: 150px;
+  right: 80px;
+}
+
+.destination {
+  color: #11999E;
+  margin: auto 10px auto 20px;
+  font-family: 'Dealerplate', sans-serif;
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-weight: bolder;
+
+}
+
+
+.front {
+  width: 30%;
+  font-family: 'Dealerplate', sans-serif;
+  color: #11999E;
+  word-spacing: 8px;
+  letter-spacing: 2px;
+  text-align: center;
+  position: absolute;
+  top:120px;
+  left: 130px;
+}
+.moon {
+  font-family: 'Bellefair', serif;
+  font-size: 100PX;
+  width: 20%;
+  margin: 30px auto 50px 10px;
+  color: white;
+  letter-spacing: 3PX;
+  font-weight: bold;
+  position: absolute;
+  top: 240px;
+  right: 240px;
+}
+.intro {
+  width: 30%;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 2px;
+  color: #11999E;
+  position: absolute;
+  top: 380px;
+  right: 100px;
+}
+hr {
+  margin: 50px auto 50px auto;
+  border-style: none;
+  border-top-style:solid;
+  border-color: #11999E;;
+  border-width: 2px;
+  width: 30%;
+  position: absolute;
+  top: 480px;
+  right: 100px;
+}
+img {
+    position: absolute;
+    left: 100px;
+    top: 210px;
+}
+.distance{
+  width: 15%;
+  position: absolute;
+  top: 550px;
+  right: 300px;
+  font-family: 'Bellefair', serif;
+  color: #11999E;
+}
+.time {
+  width: 15%;
+  position: absolute;
+  top: 550px;
+  right: 100px;
+  font-family: 'Bellefair', serif;
+  color: #11999E;
+}
